@@ -1,0 +1,33 @@
+{
+		
+"el1":	{
+			"commentaire" : "comment",
+			"identifiant" : 1,
+			"montant" : 0.2,
+			"numeroDeCompteCible" : "IDCompteCible",
+			"effectue" : "done",
+			"dateDuFlux" : "date",
+			"fluxType" : "debit",
+			"compteDebit" : {	"libelle" : "test",
+								"solde" : 20.2,
+								"numeroDeCompte" : 5,
+								"nbCompte" : 2
+							}
+		},
+
+"el2":	{
+			"commentaire" : "comment",
+			"identifiant" : 2,
+			"montant" : 1.5,
+			"numeroDeCompteCible" : "IDCompteCible",
+			"effectue" : "done",
+			"dateDuFlux" : "date",
+			"fluxType" : "debit",
+			"compteDebit" : {	"libelle" : "test",
+								"solde" : 20.2,
+								"numeroDeCompte" : 5,
+								"nbCompte" : 3
+							}
+		}
+
+}
